@@ -4,3 +4,5 @@ def reverse_each_word(sentence1)
     word.reverse!
   end
 end
+
+puts
