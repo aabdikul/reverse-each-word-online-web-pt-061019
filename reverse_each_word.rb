@@ -3,5 +3,4 @@ def reverse_each_word(sentence1)
   second_array = new_array.each do |word|
     word.reverse!
   end
-  puts second_array.to_s
 end
