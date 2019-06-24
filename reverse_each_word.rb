@@ -5,4 +5,4 @@ def reverse_each_word(sentence1)
   end
 end
 
-puts second_array
+puts reverse_each_word(sentence1)
